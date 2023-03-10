@@ -1,6 +1,6 @@
-﻿namespace FrontEnd.Models
+﻿namespace BackEnd.Models
 {
-    public class IngredienteViewModel
+    public class IngredienteModel
     {
 
         public int IdIngrediente { get; set; }

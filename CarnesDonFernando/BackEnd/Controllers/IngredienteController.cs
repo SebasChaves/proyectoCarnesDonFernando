@@ -2,7 +2,8 @@
 using DAL.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Entities;
-    
+using BackEnd.Models;
+
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace BackEnd.Controllers
@@ -20,14 +21,40 @@ namespace BackEnd.Controllers
             this.logger = logger;
         }
 
+        private IngredienteModel? Convertir(Ingrediente model)
+        {
+            return new IngredienteModel
+            {
+                IdIngrediente = model.IdIngrediente,
+                Descripcion= model.Descripcion
+            };
+
+
+        }
+        private Ingrediente? Convertir(IngredienteModel model)
+        {
+            return new Ingrediente
+            {
+                IdIngrediente = model.IdIngrediente,
+                Descripcion = model.Descripcion
+            };
+        }
+
         // GET: api/<IngredienteController>
         [HttpGet]
         public JsonResult Get()
         {
             IEnumerable<Ingrediente> ingredientes = ingredienteDAL.GetAll();
 
+            List<IngredienteModel> lista = new List<IngredienteModel>();
 
-            return new JsonResult(ingredientes);
+            foreach (var ingrediente in ingredientes)
+            {
+                lista.Add(Convertir(ingrediente)
+
+                    );
+            }
+            return new JsonResult(lista);
         }
 
         // GET api/<IngredienteController>/5
@@ -37,14 +64,14 @@ namespace BackEnd.Controllers
             Ingrediente ingrediente;
             ingrediente = ingredienteDAL.Get(id);
 
-            return new JsonResult(ingrediente);
+            return new JsonResult(Convertir(ingrediente));
         }
 
         // POST api/<IngredienteController>
         [HttpPost]
-        public JsonResult Post([FromBody] Ingrediente ingrediente)
+        public JsonResult Post([FromBody] IngredienteModel ingrediente)
         {
-            ingredienteDAL.Add(ingrediente);
+            ingredienteDAL.Add(Convertir(ingrediente));
             return new JsonResult(ingrediente);
         }
 
@@ -52,9 +79,9 @@ namespace BackEnd.Controllers
 
         // PUT api/<IngredienteController>/5
         [HttpPut]
-        public JsonResult Put([FromBody] Ingrediente ingrediente)
+        public JsonResult Put([FromBody] IngredienteModel ingrediente)
         {
-            ingredienteDAL.Update(ingrediente);
+            ingredienteDAL.Update(Convertir(ingrediente));
             return new JsonResult(ingrediente);
         }
 
@@ -65,7 +92,7 @@ namespace BackEnd.Controllers
             Ingrediente ingrediente = new Ingrediente { IdIngrediente = id };
             ingredienteDAL.Remove(ingrediente);
 
-            return new JsonResult(ingrediente);
+            return new JsonResult(Convertir(ingrediente));
         }
     }
 }

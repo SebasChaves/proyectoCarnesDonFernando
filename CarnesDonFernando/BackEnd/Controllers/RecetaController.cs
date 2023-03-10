@@ -2,6 +2,7 @@
 using DAL.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Entities;
+using BackEnd.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -20,14 +21,44 @@ namespace BackEnd.Controllers
             this.logger = logger;
         }
 
+        private RecetaModel? Convertir(Receta model)
+        {
+            return new RecetaModel
+            {
+                IdReceta= model.IdReceta,
+                IdIngrediente=model.IdIngrediente,
+                DescripcionReceta=model.DescripcionReceta,
+                NombreReceta =model.NombreReceta
+            };
+
+
+        }
+        private Receta? Convertir(RecetaModel model)
+        {
+            return new Receta
+            {
+                IdReceta = model.IdReceta,
+                IdIngrediente = model.IdIngrediente,
+                DescripcionReceta = model.DescripcionReceta,
+                NombreReceta = model.NombreReceta
+            };
+        }
+
         // GET: api/<RecetaController>
         [HttpGet]
         public JsonResult Get()
         {
             IEnumerable<Receta> recetas = recetaDAL.GetAll();
 
+            List<RecetaModel> lista = new List<RecetaModel>();
 
-            return new JsonResult(recetas);
+            foreach (var receta in recetas)
+            {
+                lista.Add(Convertir(receta)
+
+                    );
+            }
+            return new JsonResult(lista);
         }
 
         // GET api/<RecetaController>/5
@@ -37,14 +68,14 @@ namespace BackEnd.Controllers
             Receta receta;
             receta = recetaDAL.Get(id);
 
-            return new JsonResult(receta);
+            return new JsonResult(Convertir(receta));
         }
 
         // POST api/<RecetaController>
         [HttpPost]
-        public JsonResult Post([FromBody] Receta receta)
+        public JsonResult Post([FromBody] RecetaModel receta)
         {
-            recetaDAL.Add(receta);
+            recetaDAL.Add(Convertir(receta));
             return new JsonResult(receta);
         }
 
@@ -52,9 +83,9 @@ namespace BackEnd.Controllers
 
         // PUT api/<RecetaController>/5
         [HttpPut]
-        public JsonResult Put([FromBody] Receta receta)
+        public JsonResult Put([FromBody] RecetaModel receta)
         {
-            recetaDAL.Update(receta);
+            recetaDAL.Update(Convertir(receta));
             return new JsonResult(receta);
         }
 
@@ -65,7 +96,7 @@ namespace BackEnd.Controllers
             Receta receta = new Receta { IdReceta = id };
             recetaDAL.Remove(receta);
 
-            return new JsonResult(receta);
+            return new JsonResult(Convertir(receta));
         }
     }
 }

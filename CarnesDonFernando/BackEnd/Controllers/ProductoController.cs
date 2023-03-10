@@ -38,7 +38,7 @@ namespace BackEnd.Controllers
             
             
         }
-        private Producto Convertir(ProductoModel model)
+        private Producto? Convertir(ProductoModel model)
         {
             return new Producto
             {
