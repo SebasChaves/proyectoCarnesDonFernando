@@ -3,98 +3,98 @@ using Newtonsoft.Json;
 
 namespace FrontEnd.Helpers
 {
-    public class ProductoHelper
+    public class UsuarioHelper
     {
         private ServiceRepository ServiceRepository;
 
 
-        public ProductoHelper()
+        public UsuarioHelper()
         {
             ServiceRepository = new ServiceRepository();
         }
 
 
 
-        public List<ProductoViewModel> GetAll()
+        public List<UsuarioViewModel> GetAll()
         {
-            List<ProductoViewModel> lista;
+            List<UsuarioViewModel> lista;
 
 
-            HttpResponseMessage responseMessage = ServiceRepository.GetResponse("api/Producto/");
+            HttpResponseMessage responseMessage = ServiceRepository.GetResponse("api/Usuario/");
             var content = responseMessage.Content.ReadAsStringAsync().Result;
-            lista = JsonConvert.DeserializeObject<List<ProductoViewModel>>(content);
+            lista = JsonConvert.DeserializeObject<List<UsuarioViewModel>>(content);
 
 
 
             return lista;
         }
 
-        public ProductoViewModel Get(int id)
+        public UsuarioViewModel Get(int id)
         {
-            ProductoViewModel Producto;
+            UsuarioViewModel Usuario;
 
 
-            HttpResponseMessage responseMessage = ServiceRepository.GetResponse("api/Producto/" + id.ToString());
+            HttpResponseMessage responseMessage = ServiceRepository.GetResponse("api/Usuario/" + id.ToString());
             var content = responseMessage.Content.ReadAsStringAsync().Result;
-            Producto = JsonConvert.DeserializeObject<ProductoViewModel>(content);
+            Usuario = JsonConvert.DeserializeObject<UsuarioViewModel>(content);
 
 
 
-            return Producto;
+            return Usuario;
         }
 
 
-        public ProductoViewModel Create(ProductoViewModel producto)
+        public UsuarioViewModel Create(UsuarioViewModel usuario)
         {
 
 
-            ProductoViewModel Producto;
+            UsuarioViewModel Usuario;
 
 
-            HttpResponseMessage responseMessage = ServiceRepository.PostResponse("api/Producto/", producto);
+            HttpResponseMessage responseMessage = ServiceRepository.PostResponse("api/Usuario/", usuario);
             var content = responseMessage.Content.ReadAsStringAsync().Result;
-            Producto = JsonConvert.DeserializeObject<ProductoViewModel>(content);
+            Usuario = JsonConvert.DeserializeObject<UsuarioViewModel>(content);
 
 
 
-            return Producto;
-        }
-
-
-
-
-        public ProductoViewModel Edit(ProductoViewModel producto)
-        {
-
-
-            ProductoViewModel Producto;
-
-
-            HttpResponseMessage responseMessage = ServiceRepository.PutResponse("api/Producto/", producto);
-            var content = responseMessage.Content.ReadAsStringAsync().Result;
-            Producto = JsonConvert.DeserializeObject<ProductoViewModel>(content);
-
-
-
-            return Producto;
+            return Usuario;
         }
 
 
 
-        public ProductoViewModel Delete(int id)
+
+        public UsuarioViewModel Edit(UsuarioViewModel usuario)
         {
 
 
-            ProductoViewModel Producto;
+            UsuarioViewModel Usuario;
 
 
-            HttpResponseMessage responseMessage = ServiceRepository.DeleteResponse("api/Producto/" + id.ToString());
+            HttpResponseMessage responseMessage = ServiceRepository.PutResponse("api/Usuario/", usuario);
             var content = responseMessage.Content.ReadAsStringAsync().Result;
-            Producto = JsonConvert.DeserializeObject<ProductoViewModel>(content);
+            Usuario = JsonConvert.DeserializeObject<UsuarioViewModel>(content);
 
 
 
-            return Producto;
+            return Usuario;
+        }
+
+
+
+        public UsuarioViewModel Delete(int id)
+        {
+
+
+            UsuarioViewModel Usuario;
+
+
+            HttpResponseMessage responseMessage = ServiceRepository.DeleteResponse("api/Usuario/" + id.ToString());
+            var content = responseMessage.Content.ReadAsStringAsync().Result;
+            Usuario = JsonConvert.DeserializeObject<UsuarioViewModel>(content);
+
+
+
+            return Usuario;
         }
 
     }
