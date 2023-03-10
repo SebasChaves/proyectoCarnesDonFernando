@@ -2,6 +2,8 @@
 using DAL.Implementations;
 using Microsoft.AspNetCore.Mvc;
 using Entities;
+using BackEnd.Models;
+using System.Reflection.Metadata.Ecma335;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -20,14 +22,52 @@ namespace BackEnd.Controllers
 
         }
 
+        private ProductoModel? Convertir(Producto model)
+        {
+                return new ProductoModel
+                {
+                    IdCategoria = model.IdCategoria,
+                    IdProducto = model.IdProducto,
+                    Nombre = model.Nombre,
+                    Precio = model.Precio,
+                    DescripcionProductoLarga = model.DescripcionProductoLarga,
+                    DescripcionProductoCorta = model.DescripcionProductoCorta,
+                    Cantidad = model.Cantidad,
+                    UrlImg = model.UrlImg
+                };
+            
+            
+        }
+        private Producto Convertir(ProductoModel model)
+        {
+            return new Producto
+            {
+                IdCategoria = model.IdCategoria,
+                IdProducto = model.IdProducto,
+                Nombre = model.Nombre,
+                Precio = model.Precio,
+                DescripcionProductoLarga = model.DescripcionProductoLarga,
+                DescripcionProductoCorta = model.DescripcionProductoCorta,
+                Cantidad = model.Cantidad,
+                UrlImg = model.UrlImg
+            };
+        }
+
         // GET: api/<ProductoController>
         [HttpGet]
         public JsonResult Get()
         {
             IEnumerable<Producto> productos = productoDAL.GetAll();
+            List<ProductoModel> lista = new List<ProductoModel>();
 
+            foreach (var producto in productos)
+            {
+                lista.Add(Convertir(producto)
 
-            return new JsonResult(productos);
+                    );
+            }
+
+            return new JsonResult(lista);
         }
 
         // GET api/<ProductoController>/5
@@ -37,22 +77,22 @@ namespace BackEnd.Controllers
             Producto producto;
             producto = productoDAL.Get(id);
 
-            return new JsonResult(producto);
+            return new JsonResult(Convertir(producto));
         }
 
         // POST api/<ProductoController>
         [HttpPost]
-        public JsonResult Post([FromBody] Producto producto)
+        public JsonResult Post([FromBody] ProductoModel producto)
         {
-            productoDAL.Add(producto);
+            productoDAL.Add(Convertir(producto));
             return new JsonResult(producto);
         }
 
         // PUT api/<ProductoController>/5
         [HttpPut]
-        public JsonResult Put([FromBody] Producto producto)
+        public JsonResult Put([FromBody] ProductoModel producto)
         {
-            productoDAL.Update(producto);
+            productoDAL.Update(Convertir(producto));
             return new JsonResult(producto);
         }
 
@@ -60,10 +100,12 @@ namespace BackEnd.Controllers
         [HttpDelete("{id}")]
         public JsonResult Delete(int id)
         {
-            Producto category = new Producto { IdProducto = id };
-            productoDAL.Remove(category);
+            Producto producto = new Producto { IdProducto = id };
+            productoDAL.Remove(producto);
 
-            return new JsonResult(category);
+            return new JsonResult(productoDAL.Remove(producto));
+            
+
         }
     }
 }

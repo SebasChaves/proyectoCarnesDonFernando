@@ -1,13 +1,10 @@
-﻿
-using System.ComponentModel.DataAnnotations;
+﻿using Entities;
 
-namespace FrontEnd.Models
+namespace BackEnd.Models
 {
-    public class ProductoViewModel
+    public class ProductoModel
     {
-
         public int IdCategoria { get; set; }
-        
         public int IdProducto { get; set; }
         public string Nombre { get; set; } = null!;
         public int Precio { get; set; }
@@ -15,6 +12,8 @@ namespace FrontEnd.Models
         public string DescripcionProductoCorta { get; set; } = null!;
         public int Cantidad { get; set; }
         public string UrlImg { get; set; } = null!;
+
+        /*public virtual Categoria IdCategoriaNavigation { get; set; } = null!;
+        public virtual ICollection<DetalleOrden> DetalleOrdens { get; set; }*/
     }
-    
 }
