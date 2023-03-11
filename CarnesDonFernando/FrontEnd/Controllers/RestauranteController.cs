@@ -88,9 +88,9 @@ namespace FrontEnd.Controllers
         {
             try
             {
-                restaurante = restauranteHelper.Delete(restaurante.IdRestaurante);
+                restauranteHelper.Delete(restaurante.IdRestaurante);
 
-                return RedirectToAction("Details", new { id = restaurante.IdRestaurante });
+                return RedirectToAction(nameof(Index));
             }
             catch
             {

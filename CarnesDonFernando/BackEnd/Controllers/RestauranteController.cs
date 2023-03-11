@@ -24,27 +24,39 @@ namespace BackEnd.Controllers
 
         private RestauranteModel? Convertir(Restaurante model)
         {
-            return new RestauranteModel
+            if(model is null)
             {
-                IdRestaurante= model.IdRestaurante,
-                Horario=model.Horario,
-                NombreRestaurante=model.NombreRestaurante,
-                Ubicacion=model.Ubicacion,
-                UrlImg = model.UrlImg
-            };
-
-
+                return null;
+            }
+            else
+            {
+                return new RestauranteModel
+                {
+                    IdRestaurante = model.IdRestaurante,
+                    Horario = model.Horario,
+                    NombreRestaurante = model.NombreRestaurante,
+                    Ubicacion = model.Ubicacion,
+                    UrlImg = model.UrlImg
+                };
+            }
         }
         private Restaurante? Convertir(RestauranteModel model)
         {
-            return new Restaurante
+            if (model is null)
             {
-                IdRestaurante = model.IdRestaurante,
-                Horario = model.Horario,
-                NombreRestaurante = model.NombreRestaurante,
-                Ubicacion = model.Ubicacion,
-                UrlImg = model.UrlImg
-            };
+                return null;
+            }
+            else
+            {
+                return new Restaurante
+                {
+                    IdRestaurante = model.IdRestaurante,
+                    Horario = model.Horario,
+                    NombreRestaurante = model.NombreRestaurante,
+                    Ubicacion = model.Ubicacion,
+                    UrlImg = model.UrlImg
+                };
+            }
         }
 
         // GET: api/<RestauranteController>
