@@ -110,12 +110,16 @@ namespace DAL.Implementations
             return result;
         }
 
-        public void RemoveRange(IEnumerable<Receta> entities)
+       
+
+        public void RemoveRange(IEnumerable<Restaurante> entities)
         {
             throw new NotImplementedException();
         }
 
-        public Receta SingleOrDefault(Expression<Func<Receta, bool>> predicate)
+    
+
+        public Restaurante SingleOrDefault(Expression<Func<Restaurante, bool>> predicate)
         {
             throw new NotImplementedException();
         }

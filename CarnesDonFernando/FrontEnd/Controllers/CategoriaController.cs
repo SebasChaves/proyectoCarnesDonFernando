@@ -7,11 +7,10 @@ namespace FrontEnd.Controllers
 {
     public class CategoriaController : Controller
     {
-        public class CategoriaController : Controller
-        {
+      
             CategoriaHelper categoriaHelper;
 
-          
+
             public ActionResult Index()
             {
 
@@ -21,23 +20,23 @@ namespace FrontEnd.Controllers
                 return View(lista);
             }
 
-         
+
             public ActionResult Details(int id)
             {
                 categoriaHelper = new CategoriaHelper();
-               CategoriaViewModel categoria = categoriaHelper.Get(id);
+                CategoriaViewModel categoria = categoriaHelper.Get(id);
 
                 return View(categoria);
             }
 
-       
+
             public ActionResult Create()
             {
 
                 return View();
             }
 
-         
+
             [HttpPost]
             [ValidateAntiForgeryToken]
             public ActionResult Create(CategoriaViewModel categoria)
@@ -55,7 +54,7 @@ namespace FrontEnd.Controllers
                 }
             }
 
-          
+
             public ActionResult Edit(int id)
             {
                 categoriaHelper = new CategoriaHelper();
@@ -64,7 +63,7 @@ namespace FrontEnd.Controllers
                 return View(ingrediente);
             }
 
-        
+
             [HttpPost]
             [ValidateAntiForgeryToken]
             public ActionResult Edit(CategoriaViewModel categoria)
@@ -83,7 +82,7 @@ namespace FrontEnd.Controllers
                 }
             }
 
-         
+
             public ActionResult Delete(int id)
             {
                 categoriaHelper = new CategoriaHelper();
@@ -92,7 +91,7 @@ namespace FrontEnd.Controllers
                 return View(categoria);
             }
 
-           
+
             [HttpPost]
             [ValidateAntiForgeryToken]
             public ActionResult Delete(CategoriaViewModel categoria)
@@ -111,4 +110,5 @@ namespace FrontEnd.Controllers
                 }
             }
         }
-    }
+    
+}
