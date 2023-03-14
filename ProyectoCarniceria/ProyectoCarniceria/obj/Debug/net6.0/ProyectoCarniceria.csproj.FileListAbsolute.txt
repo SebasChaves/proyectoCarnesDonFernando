@@ -1,0 +1,42 @@
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.deps.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.runtimeconfig.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\refint\ProyectoCarniceria.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.genruntimeconfig.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ref\ProyectoCarniceria.dll
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.deps.json
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.runtimeconfig.json
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.csproj.AssemblyReference.cache
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.AssemblyInfoInputs.cache
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.AssemblyInfo.cs
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.csproj.CoreCompileInputs.cache
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.dll
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\refint\ProyectoCarniceria.dll
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.genruntimeconfig.cache
+C:\Programacion\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ref\ProyectoCarniceria.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.deps.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.runtimeconfig.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.csproj.AssemblyReference.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.AssemblyInfoInputs.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.AssemblyInfo.cs
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.csproj.CoreCompileInputs.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\refint\ProyectoCarniceria.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ProyectoCarniceria.genruntimeconfig.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\ProyectoCarniceria\obj\Debug\net6.0\ref\ProyectoCarniceria.dll

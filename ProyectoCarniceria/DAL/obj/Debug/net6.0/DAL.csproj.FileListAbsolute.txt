@@ -1,0 +1,53 @@
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Programacion\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Programacion\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.dll
+C:\Programacion\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Programacion\ProyectoCarniceria\DAL\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Programacion\ProyectoCarniceria\DAL\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.dll
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Programacion\ProyectoCarniceria\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\DAL\obj\Debug\net6.0\ref\DAL.dll

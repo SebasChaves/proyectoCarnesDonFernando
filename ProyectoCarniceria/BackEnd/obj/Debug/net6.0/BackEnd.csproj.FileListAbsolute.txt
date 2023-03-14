@@ -1,0 +1,212 @@
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.exe
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\DAL.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\scopedcss\bundle\BackEnd.styles.css
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CopyComplete
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+C:\Users\Kevin\source\repos\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\appsettings.json
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.exe
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\DAL.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\DAL.pdb
+C:\Programacion\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.build.BackEnd.props
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\scopedcss\bundle\BackEnd.styles.css
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CopyComplete
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+C:\Programacion\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\appsettings.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.exe
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\DAL.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\ProyectoCarniceria.dll
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\DAL.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\bin\Debug\net6.0\ProyectoCarniceria.pdb
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.build.BackEnd.props
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\scopedcss\bundle\BackEnd.styles.css
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CopyComplete
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+C:\Prueba\ProyectoCarniceria (2)\ProyectoCarniceria\ProyectoCarniceria\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
