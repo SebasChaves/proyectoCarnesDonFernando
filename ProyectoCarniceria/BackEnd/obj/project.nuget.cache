@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SN/Sq+c7Mw1njIfSL+wY557CU6YFOe0dT23Pg7+1QeizuAevBqbKYkE7tk8cjHEeG0c0DM8PEvixISw9E22f9A==",
+  "dgSpecHash": "SOtyxIbO/HSZevTN/npnK+es9ZJeeRVcSSMEW6TfMV6u1Yg145ziQ1aUmTxfgAm132cK5VYd02BUNXomd0uLyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\pruebasDonFernando\\ProyectoCarniceria\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\Proyecto Carnes Don Fernando\\ProyectoCarniceria\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

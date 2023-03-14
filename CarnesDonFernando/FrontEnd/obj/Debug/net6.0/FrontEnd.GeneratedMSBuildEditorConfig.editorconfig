@@ -1,0 +1,225 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FrontEnd
+build_property.RootNamespace = FrontEnd
+build_property.ProjectDir = C:\Users\sebas\OneDrive\Escritorio\Proyecto Carnes Don Fernando\CarnesDonFernando\FrontEnd\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sebas\OneDrive\Escritorio\Proyecto Carnes Don Fernando\CarnesDonFernando\FrontEnd
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Categoria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/DetalleOrden/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZU9yZGVuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/DetalleOrden/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZU9yZGVuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/DetalleOrden/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZU9yZGVuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/DetalleOrden/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZU9yZGVuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/DetalleOrden/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZU9yZGVuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Ingrediente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Ingrediente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Ingrediente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Ingrediente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Ingrediente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Local/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Local/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Local/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Local/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Local/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/MensajesContacto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FqZXNDb250YWN0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/MensajesContacto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FqZXNDb250YWN0b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/MensajesContacto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FqZXNDb250YWN0b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/MensajesContacto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FqZXNDb250YWN0b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/MensajesContacto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FqZXNDb250YWN0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Producto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Producto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Receta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Receta/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Receta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Receta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Receta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Restaurante/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Restaurante/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Restaurante/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Restaurante/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Restaurante/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sebas/OneDrive/Escritorio/Proyecto Carnes Don Fernando/CarnesDonFernando/FrontEnd/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-709v5g0hbe
